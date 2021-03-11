@@ -5,6 +5,10 @@ public class Cric {
 		// TODO Auto-generated method stub
 
 		System.out.println("sixxxx66");
+		system.out.println(5555555555);
 	}
 
 }
+//dddddddddddddd
+
+
